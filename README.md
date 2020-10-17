@@ -2,7 +2,7 @@ Este repositorio es el backend para la prueba de desarrollo en GlobalSTD.
 
 ## Consumo de la API
 
-Para consumir la deberá requerir el token de acceso en [https://globalstdapi.christianmtz.com/api/auth](https://globalstdapi.christianmtz.com/api/auth).
+Para consumir la deberá requerir el token de acceso en [https://globalstdapi.christianmtz.com/api/auth/login](https://globalstdapi.christianmtz.com/api/auth/login).
 
 ## Instalar el proyecto de forma local
 
