@@ -8,9 +8,9 @@ Para consumir la deberá requerir el token de acceso en [https://globalstdapi.ch
 
 Para instalar el proyecto de forma local deberá clonar el repositorio:
 
-```git clone https://github.com/Chris7ca/gloablstdapi.git```
+```git clone https://github.com/Chris7ca/globalstdapi.git```
 
-```cd gloablstdapi```
+```cd globalstdapi```
 
 ```composer install```
 
