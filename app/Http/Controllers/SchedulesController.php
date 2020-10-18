@@ -52,7 +52,7 @@ class SchedulesController extends Controller
 
         foreach ($this->repository->fillable as $field) {
             if (array_key_exists($field, $data)) {
-                $movie[$field] = $data[$field];
+                $schedule[$field] = $data[$field];
             }
         }
 
